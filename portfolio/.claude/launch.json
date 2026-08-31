@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "taimoor-portfolio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "zelio_NextJS_v2.0.0_Unzip-First/1.zelio_nextjs_template", "run", "dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}
