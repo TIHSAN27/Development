@@ -1,0 +1,49 @@
+# --- Dependencies -----------------------------------------------------------
+node_modules/
+.pnp/
+.pnp.js
+
+# --- Build output / caches --------------------------------------------------
+dist/
+build/
+out/
+.next/
+.turbo/
+.cache/
+.parcel-cache/
+*.tsbuildinfo
+
+# --- Environment & secrets --------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Database dumps / recovery artifacts (contain credentials & data) -------
+crebits-db-recovery/
+*.dump
+*.sql.gz
+
+# --- Nested repository (tracked separately at Abdul-Rehman74/Crebits-Accounting)
+Crebits-Accounting/
+
+# --- Python -----------------------------------------------------------------
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# --- Logs -------------------------------------------------------------------
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Editor / OS ------------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/settings.local.json

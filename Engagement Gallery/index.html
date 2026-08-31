@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our Engagement</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ============ PASSWORD GATE ============ -->
+  <div id="gate" class="gate">
+    <div class="gate-card">
+      <div class="gate-ornament">&#10084;</div>
+      <p class="gate-eyebrow">You're Invited</p>
+      <h1 class="gate-title" id="gateNames">Our Engagement</h1>
+      <p class="gate-sub" id="gateDate"></p>
+      <p class="gate-note">This gallery is private. Please enter the password shared with you.</p>
+      <form id="gateForm" autocomplete="off">
+        <input type="password" id="passwordInput" class="gate-input" placeholder="Enter password" aria-label="Password" autocomplete="off" />
+        <button type="submit" class="gate-btn">Enter</button>
+        <p id="gateError" class="gate-error" hidden>Incorrect password. Please try again.</p>
+      </form>
+    </div>
+  </div>
+
+  <!-- ============ SITE ============ -->
+  <div id="app" class="app" hidden>
+
+    <!-- NAV -->
+    <nav class="nav" id="nav">
+      <a href="#home" class="nav-brand" id="navBrand">S &amp; T</a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">&#9776;</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#story">Our Story</a></li>
+        <li><a href="#moments">Moments</a></li>
+        <li><a href="#films">Films</a></li>
+      </ul>
+    </nav>
+
+    <!-- HERO -->
+    <header class="hero" id="home">
+      <div class="hero-bg" id="heroBg"></div>
+      <div class="hero-overlay"></div>
+      <div class="hero-inner">
+        <p class="hero-eyebrow">The Engagement Of</p>
+        <h1 class="hero-names" id="heroNames">&nbsp;</h1>
+        <div class="hero-rule"><span>&#10022;</span></div>
+        <p class="hero-date" id="heroDate"></p>
+      </div>
+      <a href="#story" class="hero-scroll" aria-label="Scroll down">
+        <span></span>
+      </a>
+    </header>
+
+    <!-- STORY -->
+    <section class="story reveal" id="story">
+      <div class="story-media">
+        <div class="story-img" id="storyImg"></div>
+        <div class="story-frame"></div>
+      </div>
+      <div class="story-text">
+        <p class="eyebrow">Two Hearts, One Promise</p>
+        <h2 class="section-title">Our Story</h2>
+        <p id="storyBody"></p>
+        <p class="story-sign" id="storySign"></p>
+      </div>
+    </section>
+
+    <!-- MOMENTS / GALLERY -->
+    <section class="section" id="moments">
+      <div class="section-head reveal">
+        <p class="eyebrow">Captured Forever</p>
+        <h2 class="section-title">Our Moments</h2>
+        <p class="section-sub">A collection of the little glances and big smiles from our special day.</p>
+      </div>
+
+      <div class="filters reveal" id="filters">
+        <button class="filter active" data-filter="all">All</button>
+        <button class="filter" data-filter="photo">Photos</button>
+        <button class="filter" data-filter="video">Films</button>
+      </div>
+
+      <div class="gallery" id="gallery" aria-live="polite"></div>
+    </section>
+
+    <!-- FILMS anchor target lives inside the gallery via the Films filter -->
+    <span id="films"></span>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <p class="footer-heart">&#10084;</p>
+      <p class="footer-names" id="footerNames"></p>
+      <p class="footer-date" id="footerDate"></p>
+      <p class="footer-small">With love &amp; gratitude</p>
+    </footer>
+  </div>
+
+  <!-- ============ LIGHTBOX ============ -->
+  <div id="lightbox" class="lightbox" hidden>
+    <button class="lb-close" id="lbClose" aria-label="Close">&times;</button>
+    <button class="lb-nav lb-prev" id="lbPrev" aria-label="Previous">&#8249;</button>
+    <img class="lb-img" id="lbImg" alt="" />
+    <button class="lb-nav lb-next" id="lbNext" aria-label="Next">&#8250;</button>
+    <p class="lb-counter" id="lbCounter"></p>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="images.js"></script>
+  <script src="gallery.js"></script>
+</body>
+</html>

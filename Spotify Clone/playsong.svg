@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+  <!--
+    This path creates the solid play triangle.
+    M8 5v14l11-7z means:
+    - M8 5: Move to coordinates (8, 5)
+    - v14: Draw a vertical line down 14 units (to 8, 19)
+    - l11-7: Draw a line to (19, 12) (which is 11 units right and 7 units up)
+    - z: Close the path (draws a line back to the start at 8, 5)
+  -->
+  <path d="M8 5v14l11-7z" />
+</svg>

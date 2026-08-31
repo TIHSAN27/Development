@@ -1,0 +1,243 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X Clone</title>
+    <link rel="shortcut icon"
+        href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_icon.svg/512px-X_icon.svg.png"
+        type="image/x-icon">
+    <link href="./output.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/output.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=globe_asia" />
+</head>
+
+<body class=" bg-black text-white">
+    <div class="flex md:container mx-auto my-4 bg-black text-white">
+        <div class="first w-16 md:w-[80%] m-3 ">
+            <div class="logo invert my-4 self-start sticky top-[5vh]"><svg viewBox="0 0 24 24" aria-hidden="true"
+                    class="m-auto r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-k200y r-1nao33i r-5sfk15 r-kzbkwu w-8">
+                    <g>
+                        <path
+                            d="M21.742 21.75l-7.563-11.179 7.056-8.321h-2.456l-5.691 6.714-4.54-6.714H2.359l7.29 10.776L2.25 21.75h2.456l6.035-7.118 4.818 7.118h6.191-.008zM7.739 3.818L18.81 20.182h-2.447L5.29 3.818h2.447z">
+                        </path>
+                    </g>
+                </svg></div>
+
+            <div class="sidebar md:items-end  flex flex-col sticky top-[11vh]">
+
+                <ul class="flex flex-col text-2xl space-y-3  md:px-13 font-bold w-fit ">
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/home.svg" alt=""><span class="hidden md:block"> Home </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/Explore.svg" alt=""> <span class="hidden md:block"> Explore</span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/Notifications.svg" alt=""><span class="hidden md:block"> Notifications </span>
+                    </li> 
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/messages.svg" alt=""> <span class="hidden md:block"> Messages
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/grok.svg" alt=""> <span class="hidden md:block"> Grok
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/lists.svg" alt=""> <span class="hidden md:block"> Lists
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/bookmarks.svg" alt=""> <span class="hidden md:block"> Bookmarks
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/communities.svg" alt=""> <span class="hidden md:block"> Communities
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/premium.svg" alt=""> <span class="hidden md:block"> Premium
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/profile.svg" alt=""> <span class="hidden md:block"> Profile
+                        </span>
+                    </li>
+                    <li
+                        class="flex  md:justify-start items-center justify-center gap-3 md:w-fit hover:bg-gray-900 hover:rounded-full hover:cursor-pointer px-5 py-3 ">
+                        <img src="icons/more.svg" alt=""> <span class="hidden md:block"> More
+                        </span>
+                    </li>
+                    <div class="button w-full text-center">
+                        <button class="bg-blue-600 hidden md:block px-16 py-2 text-xl rounded-full">Post</button>
+                        <button class="bg-blue-600 md:hidden px-4 py-2 text-xl rounded-full"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z"/></svg></button>
+                    </div>
+                    <li>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="second w-[120%] border border-gray-500 border-y-black ">
+            <div class="top flex p-3 relative sticky top-0 bg-black backdrop-blur-3xl opacity-60">
+                <div class="absolute w-16 h-1 rounded-full bg-blue-500 bottom-0 left-[19%] z-10 "></div>
+                <div class="bg-red-5001 flex font-bold text-lg justify-center hover:bg-[#16181c] w-1/2 sticky top-0">For
+                    You</div>
+                <div class="bg-green-5001 flex font-bold  text-lg justify-center hover:bg-[#16181c] w-1/2 sticky top-0">
+                    Following</div>
+                <div class="flex justify-center hover:bg-[#16181c] hover:border  mx-2 sticky top-0"><img src="icons/settings.svg"
+                        alt="">
+                </div>
+            </div>
+            <div class="h-[1px] w-full bg-gray-700"></div>
+            <div class="whatiahypp flex my-3">
+                <div class="m-2">
+                    <img class="rounded-full m-3 w-[60%]"
+                        src="https://yt3.ggpht.com/yti/ANjgQV_kjBxhuRu_Ty7_KPALfjHLlEkiM5V4iv0QqCzXAHz4A24=s88-c-k-c0x00ffffff-no-rj"
+                        alt="">
+
+                </div>
+                <div class="w-fit">
+
+                    <input class="w-fit h-7 my-5 flex:wrap bg-black outline-none text-white text-xl" type="text"
+                        placeholder="What is Happening?!">
+
+                    <div class=" text-blue-600 flex items-center gap-1 w-full my-4">
+                        <span class="material-symbols-outlined">
+                            globe_asia
+                        </span>
+                        <span>Everyone can Reply</span>
+                    </div>
+                    <div class="w-[90%] h-[2px] bg-[#16181c] my-3"> </div>
+
+                    <div class="blueicons flex gap-2">
+                        <span class="cursor-pointer"><img src="icons/media.svg" alt=""></span>
+                        <span class="cursor-pointer"><img src="icons/ballot.svg" alt=""></span>
+                        <span class="cursor-pointer"><img src="icons/calendar.svg" alt=""></span>
+                        <span class="cursor-pointer"><img src="icons/gif.svg" alt=""></span>
+
+                    </div>
+                </div>
+            </div>
+            
+            <div class="posts">
+                <div class="post border-[1px]  border-y-gray-500 border-x-0">
+                    <div class="flex mx-auto">
+                        <div class="image m-4 mr-0">
+                            <img class="rounded-full m-3 w-[45%]"
+                                src="https://yt3.ggpht.com/yti/ANjgQV_kjBxhuRu_Ty7_KPALfjHLlEkiM5V4iv0QqCzXAHz4A24=s88-c-k-c0x00ffffff-no-rj"
+                                alt="">
+                        </div>
+                        <div class="content my-7">
+                            <span class="font-bold hover:underline cursor=pointer 
+                        ">Non aesthetic things</span><span class="text-gray-500">@PictureFolder . 6h </span>
+                            <div>Taimoor Ihsan</div>
+                            <div class="posting m-4 ml">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0Bj50btUs-b0hBrRnkbgIFg7Qyor5FSbtA&s"
+                                    alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                </div>
+             
+                    <div class="flex mx-auto">
+                        <div class="image m-4 mr-0">
+                            <img class="rounded-full m-3 w-[45%]"
+                                src="https://yt3.ggpht.com/yti/ANjgQV_kjBxhuRu_Ty7_KPALfjHLlEkiM5V4iv0QqCzXAHz4A24=s88-c-k-c0x00ffffff-no-rj"
+                                alt="">
+                        </div>
+                        <div class="content my-7">
+                            <span class="font-bold hover:underline cursor=pointer 
+                        ">Non aesthetic things</span><span class="text-gray-500">@PictureFolder . 6h </span>
+                            <div>Taimoor Ihsan</div>
+                            <div class="posting m-4 ml">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0Bj50btUs-b0hBrRnkbgIFg7Qyor5FSbtA&s"
+                                    alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                    <div class="flex mx-auto">
+                        <div class="image m-4 mr-0">
+                            <img class="rounded-full m-3 w-[45%]"
+                                src="https://yt3.ggpht.com/yti/ANjgQV_kjBxhuRu_Ty7_KPALfjHLlEkiM5V4iv0QqCzXAHz4A24=s88-c-k-c0x00ffffff-no-rj"
+                                alt="">
+                        </div>
+                        <div class="content my-7">
+                            <span class="font-bold hover:underline cursor=pointer 
+                        ">Non aesthetic things</span><span class="text-gray-500">@PictureFolder . 6h </span>
+                            <div>Taimoor Ihsan</div>
+                            <div class="posting m-4 ml">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0Bj50btUs-b0hBrRnkbgIFg7Qyor5FSbtA&s"
+                                    alt="">
+                            </div>
+
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="third  hidden md:block w-[50%] ">
+
+            <div class="search m-3 sticky top-[4vh] ">
+                <input type="text" class="w-[83%] rounded-full bg-[#16181c] text-white px-4 py-2" placeholder="Search">
+            </div>
+
+            <div class="whats m-3 sticky top-[9vh] bg-[#16181c] w-[100%] py-5 rounded-xl space-y-3 ">
+                <h1 class="text-xl font-bold px-3 w-fit">What's Happening</h1>
+                <div class="item px-3 p-3 hover:bg-gray-800 cursor-pointer">
+
+                    <div class=" text-sm text-gray-500">Trending in Pakistan</div>
+                    <div class="">#ImranKhan</div>
+                    <div class=" text-sm text-gray-500">180.4k Posts</div>
+                </div>
+                <div class="item px-3 p-3 hover:bg-gray-800 cursor-pointer">
+
+                    <div class=" text-sm text-gray-500">Trending in Pakistan</div>
+                    <div class="">#TaimoorIhsan</div>
+                    <div class=" text-sm text-gray-500">180.4k Posts</div>
+                </div>
+                <div class="item px-3 p-3 hover:bg-gray-800 cursor-pointer">
+
+                    <div class=" text-sm text-gray-500">Trending in Pakistan</div>
+                    <div class="">#PTI</div>
+                    <div class=" text-sm text-gray-500">180.4k Posts</div>
+                </div>
+                <div class="item px-3 p-3 hover:bg-gray-800 cursor-pointer">
+
+                    <div class=" text-sm text-gray-500">Trending in Pakistan</div>
+                    <div class="">#Civic</div>
+                    <div class=" text-sm text-gray-500">180.4k Posts</div>
+                </div>
+
+                <div class="text-blue-600 px-3 underline my-5">Show More</div>
+            </div>
+            <div class="who m-3 sticky top-[66vh] bg-[#16181c] w-[100%] py-3 rounded-xl space-y-3 ">
+                <h1 class="text-xl font-bold px-3 ">Who To Follow</h1>
+                <div class="item px-3 p-3 hover:bg-gray-800 cursor-pointer">
+
+                    <div class="font-bold">Imran Khan</div>
+                    <div class="font-bold">PakWheels</div>
+                    <div class="font-bold">Lahore</div>
+                </div>
+                <div class="text-blue-600 px-3 underline my-5">Show More</div>
+            </div>
+        </div>
+</body>
+
+</html>

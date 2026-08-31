@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Transition</title>
+    <style>
+     
+            
+        .container {
+            width: 1500px;
+            height: 600px;
+            background-color: blue;
+            border: 2px solid #000000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+        }
+        .ball {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            border-radius: 50%;
+            left: 0;
+            bottom: 0;
+            position: absolute;
+            animation: animationY 1s ease-out infinite alternate, animationX 3s linear infinite
+            
+        ;
+            
+        }
+        @keyframes animationX {
+            from {
+                left: 0;
+            }
+            to{
+                left: 100%;
+            }
+            
+        }
+        @keyframes animationY {
+            from {
+                bottom: 0;
+            }
+            to{
+                bottom: 100%;
+
+            }
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container"
+
+    ><div class="ball"></div>
+        
+    </div>
+</body>
+</html>
