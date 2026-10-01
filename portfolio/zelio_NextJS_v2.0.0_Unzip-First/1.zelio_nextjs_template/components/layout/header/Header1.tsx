@@ -27,6 +27,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isOffC
 								<Link href="https://www.linkedin.com/in/tihsan13" target="_blank">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
+								<Link href="https://www.upwork.com/freelancers/~01dedc388fc4119c52" target="_blank">
+									<i className="ri-briefcase-fill fs-18" />
+								</Link>
 								<Link href="mailto:taimoorahsan27@gmail.com">
 									<i className="ri-mail-fill fs-18" />
 								</Link>

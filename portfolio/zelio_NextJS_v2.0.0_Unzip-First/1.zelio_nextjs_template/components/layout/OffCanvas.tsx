@@ -23,6 +23,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 								<p className="mb-0">linkedin.com/in/tihsan13</p>
 							</div>
 							<div className="mb-3">
+								<span className="text-400 fs-5">Upwork</span>
+								<p className="mb-0">Hire Me on Upwork</p>
+							</div>
+							<div className="mb-3">
 								<span className="text-400 fs-5">Location</span>
 								<p className="mb-0">Remote — Serving Clients Across the US &amp; Canada</p>
 							</div>
@@ -32,6 +36,9 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 							<div className="d-md-flex d-none gap-3">
 								<Link href="https://www.linkedin.com/in/tihsan13" target="_blank">
 									<i className="ri-linkedin-fill fs-18" />
+								</Link>
+								<Link href="https://www.upwork.com/freelancers/~01dedc388fc4119c52" target="_blank">
+									<i className="ri-briefcase-fill fs-18" />
 								</Link>
 								<Link href="mailto:taimoorahsan27@gmail.com">
 									<i className="ri-mail-fill fs-18" />
