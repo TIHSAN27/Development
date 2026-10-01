@@ -17,87 +17,78 @@ export default function WorkSingle() {
 											work details
 										</Link>
 										<h3 className="ds-3 mt-3 mb-4 text-dark">
-											Travila - Travel Booking App UI/UX Design
+											Multi-Entity AP &amp; Payroll Consolidation
 										</h3>
 										<p className="text-300 fs-5 mb-0">
-											The project involved creating an intuitive and visually appealing user interface, ensuring that users can effortlessly book flights, hotels, and car rentals all within a single app.
+											Consolidating a 60+ payee, 10-period payables and payroll register across a multi-entity real estate holding group into one reconciled master with full period-by-period tie-out.
 										</p>
 									</div>
 								</div>
 								<div className="d-flex flex-wrap justify-content-center gap-4 py-8">
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Client</p>
-										<h6>Fushio Company</h6>
+										<h6>Real Estate Holding Group</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Start</p>
-										<h6>01 May 2024</h6>
+										<h6>Aug 2025</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
-										<p className="text-300 mb-0">Complete</p>
-										<h6>01 June 2024</h6>
+										<p className="text-300 mb-0">Status</p>
+										<h6>Ongoing</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
 										<p className="text-300 mb-0">Services</p>
-										<h6>UI/UX Design</h6>
+										<h6>Full-Charge Bookkeeping</h6>
 									</div>
 									<div className="bg-6 px-5 py-3 rounded-2">
-										<p className="text-300 mb-0">Website</p>
-										<h6>fushion.wr</h6>
+										<p className="text-300 mb-0">Entities</p>
+										<h6>6+ Affiliated LLCs</h6>
 									</div>
 								</div>
-								<img src="/assets/imgs/work/img-background.png" alt="" />
+								<img src="/assets/imgs/projects/projects-1/img-1.svg" alt="Payables &amp; payroll register dashboard" className="w-100 rounded-4" />
 								<div className="col-lg-8 mx-lg-auto mt-8">
 									<h5 className="fs-5 fw-medium">Description</h5>
 									<p className="text-300">
-										Travila is a comprehensive travel booking app designed to provide users with a seamless and enjoyable booking experience. The project involved creating an intuitive and visually appealing user interface, ensuring that users can effortlessly book flights, hotels, and car rentals all within a single app. The primary goal was to enhance the overall user experience, making travel planning easy and enjoyable.
+										This real estate holding and loan servicing group manages payables and payroll across 6+ affiliated LLCs, with each entity running its own vendors, bank accounts, and pay cycles. Before this engagement, payables and payroll were tracked in separate, inconsistent registers across entities, making it difficult to see a clean, reconciled picture of cash outflow. The goal was to build one reliable system of record the whole group could trust.
 									</p>
-									<h5 className="fs-5 fw-medium mt-4">Key Features</h5>
+									<h5 className="fs-5 fw-medium mt-4">Scope of Work</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">User-Centric Interface: <span className="text-300 fw-medium">Designed a clean and intuitive interface that allows users to navigate through the app with ease, ensuring a smooth and enjoyable booking process.</span></p>
+											<p className="text-dark fw-bold">Consolidated Register: <span className="text-300 fw-medium">Merged 60+ payees and 10 periods of payables and payroll data across all entities into a single reconciled master register.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Integrated Search and Booking: <span className="text-300 fw-medium">Developed an integrated search function that enables users to find and book flights, hotels, and car rentals quickly and efficiently.</span></p>
+											<p className="text-dark fw-bold">Biweekly Payroll Processing: <span className="text-300 fw-medium">Managed end-to-end biweekly payroll runs, keeping payroll tied to the same consolidated register as vendor payables.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Personalized Recommendations: <span className="text-300 fw-medium">Implemented a recommendation system that suggests destinations, accommodations, and activities based on user preferences and past behaviors.</span></p>
+											<p className="text-dark fw-bold">Full Period-by-Period Tie-Out: <span className="text-300 fw-medium">Reconciled every period against bank activity so the register matches actual cash movement, entity by entity.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Secure Payment Gateway: <span className="text-300 fw-medium">Integrated a secure payment gateway to ensure that all transactions <span className="text-dark fw-bold">are safe and user data is protected.</span></span></p>
-										</li>
-										<li>
-											<p className="text-dark fw-bold">Interactive Maps: <span className="text-300 fw-medium">Added interactive maps to help users explore destinations, find nearby attractions, and get directions.</span></p>
+											<p className="text-dark fw-bold">Bill Approval Workflow: <span className="text-300 fw-medium">Set up a clean bill-approval and payment workflow in Bill.com so vendor payments route consistently across entities.</span></p>
 										</li>
 									</ul>
-									<h5 className="fs-5 fw-medium mt-4">Technologies Used</h5>
+									<h5 className="fs-5 fw-medium mt-4">Tools &amp; Platforms</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Front-End: <span className="text-300 fw-medium">React Native for cross-platform mobile development, ensuring a consistent experience on both iOS and Android devices.</span></p>
+											<p className="text-dark fw-bold">Bookkeeping: <span className="text-300 fw-medium">QuickBooks Desktop Enterprise for multi-entity ledgers and reporting.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Back-End: <span className="text-300 fw-medium">Node.js and Express for handling server-side logic and database interactions.</span></p>
+											<p className="text-dark fw-bold">Payables: <span className="text-300 fw-medium">Bill.com for vendor bill approvals and payment routing.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Database: <span className="text-300 fw-medium">MongoDB for flexible data storage and retrieval.</span></p>
-										</li>
-										<li>
-											<p className="text-dark fw-bold">APIs: <span className="text-300 fw-medium">Integrated third-party APIs for flight, hotel, and car rental bookings to provide a wide range of options to users.</span></p>
-										</li>
-										<li>
-											<p className="text-dark fw-bold">Payment Integration: <span className="text-300 fw-medium">Stripe API for secure and reliable payment processing.</span></p>
+											<p className="text-dark fw-bold">Register &amp; Reconciliation: <span className="text-300 fw-medium">Excel with Power Query and Pivot Tables to consolidate and tie out the master register.</span></p>
 										</li>
 									</ul>
-									<h5 className="fs-5 fw-medium mt-4">Design Highlights</h5>
+									<h5 className="fs-5 fw-medium mt-4">Results</h5>
 									<ul>
 										<li>
-											<p className="text-dark fw-bold">Visual Appeal: <span className="text-300 fw-medium">Focused on a visually appealing design with high-quality images and a modern color palette to enhance user engagement.</span></p>
+											<p className="text-dark fw-bold">One Source of Truth: <span className="text-300 fw-medium">A single, reconciled register replaced scattered per-entity tracking.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Usability: <span className="text-300 fw-medium">Ensured the app is user-friendly with clear icons, concise labels, and a straightforward navigation structure.</span></p>
+											<p className="text-dark fw-bold">Audit-Ready Records: <span className="text-300 fw-medium">Every payment ties back to a reconciled period, ready for review at any time.</span></p>
 										</li>
 										<li>
-											<p className="text-dark fw-bold">Responsive Design: <span className="text-300 fw-medium">Made the app responsive to different screen sizes and orientations, providing a consistent user experience across various devices.</span></p>
+											<p className="text-dark fw-bold">Faster Close: <span className="text-300 fw-medium">Automated reconciliation steps cut manual processing time significantly each period.</span></p>
 										</li>
 									</ul>
 								</div>
@@ -112,9 +103,9 @@ export default function WorkSingle() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">12</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">5</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Year of</p>
+													<p className="fs-5 mb-0 text-300">Years of</p>
 													<p className="fs-5 mb-0 fw-bold">Experience</p>
 												</div>
 											</div>
@@ -123,10 +114,10 @@ export default function WorkSingle() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">250</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">6</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Projects</p>
-													<p className="fs-5 mb-0 fw-bold">Completed</p>
+													<p className="fs-5 mb-0 text-300">Affiliated Entities</p>
+													<p className="fs-5 mb-0 fw-bold">Managed</p>
 												</div>
 											</div>
 										</div>
@@ -134,10 +125,10 @@ export default function WorkSingle() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">680</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">$<span className="odometer ds-1 text-dark fw-semibold">5</span>M+</span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Satisfied</p>
-													<p className="fs-5 mb-0 fw-bold">Happy Clients</p>
+													<p className="fs-5 mb-0 text-300">Receivables</p>
+													<p className="fs-5 mb-0 fw-bold">Tracked</p>
 												</div>
 											</div>
 										</div>
@@ -145,10 +136,10 @@ export default function WorkSingle() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">18</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0"><span className="odometer ds-1 text-dark fw-semibold">50</span>%</span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Awards</p>
-													<p className="fs-5 mb-0 fw-bold">Won Received</p>
+													<p className="fs-5 mb-0 text-300">Faster</p>
+													<p className="fs-5 mb-0 fw-bold">Reconciliations</p>
 												</div>
 											</div>
 										</div>
@@ -162,96 +153,57 @@ export default function WorkSingle() {
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 							<span className="fs-5 fw-medium text-200">
-								I'm always excited to take on new projects and collaborate with innovative minds. If you
+								I'm always happy to take on new bookkeeping engagements. If you need help with
 								<br />
-								have a project in mind or just want to chat about design, feel free to reach out!
+								reconciliations, reporting, or getting your books audit-ready, feel free to reach out!
 							</span>
 							<div className="row mt-8">
-								<div className="col-lg-4 d-flex flex-column">
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
-										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-											<i className="ri-phone-fill text-primary-1 fs-26" />
-										</div>
-										<div className="ps-3">
-											<span className="text-400 fs-5">Phone Number</span>
-											<h6 className="mb-0">+1-234-567-8901</h6>
-										</div>
-										<Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
-									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+								<div className="col-12 d-flex flex-wrap justify-content-center gap-5">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-mail-fill text-primary-1 fs-26" />
 										</div>
 										<div className="ps-3">
 											<span className="text-400 fs-5">Email</span>
-											<h6 className="mb-0">contact@william.design</h6>
+											<h6 className="mb-0">taimoorahsan27@gmail.com</h6>
 										</div>
-										<Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
+										<Link href="mailto:taimoorahsan27@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-											<i className="ri-skype-fill text-primary-1 fs-26" />
+											<i className="ri-linkedin-fill text-primary-1 fs-26" />
 										</div>
 										<div className="ps-3">
-											<span className="text-400 fs-5">Skype</span>
-											<h6 className="mb-0">WilliamDesignUX</h6>
+											<span className="text-400 fs-5">LinkedIn</span>
+											<h6 className="mb-0">linkedin.com/in/tihsan13</h6>
 										</div>
-										<Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
+										<Link href="https://www.linkedin.com/in/tihsan13" target="_blank" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+									<div className="d-flex align-items-center position-relative">
+										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
+											<i className="ri-briefcase-fill text-primary-1 fs-26" />
+										</div>
+										<div className="ps-3">
+											<span className="text-400 fs-5">Upwork</span>
+											<h6 className="mb-0">Hire Me on Upwork</h6>
+										</div>
+										<Link href="https://www.upwork.com/freelancers/~01dedc388fc4119c52" target="_blank" className="position-absolute top-0 start-0 w-100 h-100" />
+									</div>
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-map-2-fill text-primary-1 fs-26" />
 										</div>
 										<div className="ps-3">
-											<span className="text-400 fs-5">Address</span>
-											<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+											<span className="text-400 fs-5">Location</span>
+											<h6 className="mb-0">Remote — Serving Clients Across the US &amp; Canada</h6>
 										</div>
-										<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
-									</div>
-								</div>
-								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
-									<div className="position-relative">
-										<div className="position-relative z-2">
-											<h3>Leave a messge</h3>
-											<form action="#">
-												<div className="row mt-3">
-													<div className="col-md-6 ">
-														<label className="mb-1 mt-3 text-dark" htmlFor="name">Your name <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="name" name="name" placeholder="John Doe" aria-label="username" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="email">Email address <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="email" name="email" placeholder="contact.john@gmail.com" aria-label="email" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="phone">Your phone <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="phone" name="phone" placeholder="+01 234 567 89" aria-label="phone" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="subject">Subject <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="subject" name="subject" placeholder="I want to contact for...." aria-label="subject" />
-													</div>
-													<div className="col-12">
-														<label className="mb-1 mt-3 text-dark" htmlFor="message">Message <span className="text-primary-1">*</span></label>
-														<textarea className="form-control border rounded-3 pb-10" id="message" name="message" placeholder="Your message here...." aria-label="With textarea" />
-													</div>
-													<div className="col-12">
-														<button type="submit" className="btn btn-gradient mt-3">
-															Send Message
-															<i className="ri-arrow-right-up-line" />
-														</button>
-													</div>
-												</div>
-											</form>
-										</div>
-										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 									</div>
 								</div>
 							</div>
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">
-								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">william.design</h3>
+								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">taimoorihsan</h3>
 							</div>
 						</div>
 					</section>
