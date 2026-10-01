@@ -1,0 +1,31 @@
+<svg width="1156" height="866" viewBox="0 0 1156 866" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1156" height="866" fill="#f6f4fd"/>
+
+  <!-- left: old desktop books -->
+  <rect x="70" y="150" width="420" height="560" rx="20" fill="#e9e6f5" stroke="#c9c2f5" stroke-width="2"/>
+  <rect x="70" y="150" width="420" height="60" rx="20" fill="#8a8a96"/>
+  <text x="280" y="188" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">Prior Firm Handoff</text>
+  <rect x="106" y="240" width="348" height="26" rx="6" fill="#c9c2f5"/>
+  <rect x="106" y="280" width="280" height="26" rx="6" fill="#c9c2f5"/>
+  <rect x="106" y="320" width="320" height="26" rx="6" fill="#c9c2f5"/>
+  <rect x="106" y="360" width="250" height="26" rx="6" fill="#c9c2f5"/>
+  <text x="280" y="470" font-family="Arial, sans-serif" font-size="60" fill="#9c9caa" text-anchor="middle">?</text>
+  <text x="280" y="520" font-family="Arial, sans-serif" font-size="18" fill="#565662" text-anchor="middle">Full Fiscal Year</text>
+  <text x="280" y="546" font-family="Arial, sans-serif" font-size="18" fill="#565662" text-anchor="middle">Un-Reconciled</text>
+
+  <!-- arrow -->
+  <path d="M520 430 H630" stroke="#6e4ef2" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M600 400 L640 430 L600 460" stroke="#6e4ef2" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- right: clean QBDT -->
+  <rect x="666" y="150" width="420" height="560" rx="20" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="666" y="150" width="420" height="60" rx="20" fill="#2ca01c"/>
+  <text x="876" y="188" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">QuickBooks Desktop Enterprise</text>
+  <rect x="702" y="240" width="348" height="26" rx="6" fill="#eafaf3"/>
+  <rect x="702" y="280" width="348" height="26" rx="6" fill="#eafaf3"/>
+  <rect x="702" y="320" width="348" height="26" rx="6" fill="#eafaf3"/>
+  <rect x="702" y="360" width="348" height="26" rx="6" fill="#eafaf3"/>
+  <circle cx="876" cy="470" r="60" fill="#64e1b0"/>
+  <path d="M846 470 L868 492 L910 448" stroke="#21212d" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="876" y="560" font-family="Arial, sans-serif" font-size="18" fill="#21212d" text-anchor="middle" font-weight="bold">Fully Tied Out</text>
+</svg>

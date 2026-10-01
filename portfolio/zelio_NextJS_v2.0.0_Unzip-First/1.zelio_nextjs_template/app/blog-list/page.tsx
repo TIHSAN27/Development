@@ -31,7 +31,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-1.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-1.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Excel Tips</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -50,7 +50,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-2.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-2.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Month-End Close</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -69,7 +69,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-3.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-3.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Software</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -88,7 +88,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-4.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-4.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Reconciliation</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -107,7 +107,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-5.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-5.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">AR &amp; Collections</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -126,7 +126,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-6.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-6.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Payroll</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -145,7 +145,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-7.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-7.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Cleanup</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -164,7 +164,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-8.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-8.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Cash Flow</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
@@ -183,7 +183,7 @@ export default function BlogList() {
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-9.png" alt="" />
+												<img className="w-100" src="/assets/imgs/blog/blog-1/img-9.svg" alt="" />
 												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">Real Estate</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />

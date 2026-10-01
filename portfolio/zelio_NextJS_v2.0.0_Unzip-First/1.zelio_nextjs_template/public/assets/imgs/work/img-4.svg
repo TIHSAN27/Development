@@ -1,0 +1,36 @@
+<svg width="522" height="547" viewBox="0 0 522 547" xmlns="http://www.w3.org/2000/svg">
+  <rect width="522" height="547" fill="#f6f4fd"/>
+  <rect x="30" y="30" width="462" height="487" rx="20" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="30" y="30" width="462" height="56" rx="20" fill="#21212d"/>
+  <circle cx="60" cy="58" r="7" fill="#ec4040"/>
+  <circle cx="82" cy="58" r="7" fill="#ffd45d"/>
+  <circle cx="104" cy="58" r="7" fill="#64e1b0"/>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="112" width="120" height="46" rx="10" fill="#6e4ef2"/>
+    <text x="120" y="141" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Client A</text>
+    <rect x="192" y="112" width="120" height="46" rx="10" fill="#edeaf8"/>
+    <text x="252" y="141" font-size="14" fill="#6e4ef2" text-anchor="middle" font-weight="bold">Client B</text>
+    <rect x="324" y="112" width="120" height="46" rx="10" fill="#edeaf8"/>
+    <text x="384" y="141" font-size="14" fill="#6e4ef2" text-anchor="middle" font-weight="bold">Client C</text>
+  </g>
+
+  <text x="60" y="205" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#21212d">Monthly Close — Client A</text>
+
+  <rect x="60" y="230" width="400" height="40" rx="8" fill="#f6f4fd"/>
+  <text x="76" y="255" font-family="Arial, sans-serif" font-size="13" fill="#33333e">Journal entries posted</text>
+  <text x="440" y="255" font-family="Arial, sans-serif" font-size="13" fill="#1fae7a" font-weight="bold" text-anchor="end">Done</text>
+
+  <rect x="60" y="278" width="400" height="40" rx="8" fill="#f6f4fd"/>
+  <text x="76" y="303" font-family="Arial, sans-serif" font-size="13" fill="#33333e">Reconciliation complete</text>
+  <text x="440" y="303" font-family="Arial, sans-serif" font-size="13" fill="#1fae7a" font-weight="bold" text-anchor="end">Done</text>
+
+  <g>
+    <rect x="80" y="410" width="42" height="70" rx="6" fill="#8c71ff"/>
+    <rect x="140" y="390" width="42" height="90" rx="6" fill="#6e4ef2"/>
+    <rect x="200" y="370" width="42" height="110" rx="6" fill="#64e1b0"/>
+  </g>
+  <text x="330" y="420" font-family="Arial, sans-serif" font-size="14" fill="#565662">3 clients,</text>
+  <text x="330" y="442" font-family="Arial, sans-serif" font-size="14" fill="#565662">one close</text>
+  <text x="330" y="464" font-family="Arial, sans-serif" font-size="14" fill="#565662">schedule.</text>
+</svg>

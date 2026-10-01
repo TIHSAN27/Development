@@ -1,0 +1,6 @@
+<svg width="147" height="83" viewBox="0 0 147 83" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="19" width="135" height="45" rx="12" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <circle cx="24" cy="36" r="9" fill="#F45D48"/>
+  <circle cx="40" cy="36" r="9" fill="#F45D48" opacity="0.6"/>
+  <text x="62" y="47" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#21212d">Gusto</text>
+</svg>

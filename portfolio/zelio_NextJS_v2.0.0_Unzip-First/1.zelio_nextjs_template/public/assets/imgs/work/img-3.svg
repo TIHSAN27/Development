@@ -1,0 +1,23 @@
+<svg width="522" height="547" viewBox="0 0 522 547" xmlns="http://www.w3.org/2000/svg">
+  <rect width="522" height="547" fill="#f6f4fd"/>
+
+  <rect x="30" y="60" width="200" height="300" rx="16" fill="#e9e6f5" stroke="#c9c2f5" stroke-width="2"/>
+  <rect x="30" y="60" width="200" height="44" rx="16" fill="#8a8a96"/>
+  <text x="130" y="88" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Prior Firm</text>
+  <text x="130" y="220" font-family="Arial, sans-serif" font-size="46" fill="#9c9caa" text-anchor="middle">?</text>
+  <text x="130" y="260" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">Un-reconciled</text>
+  <text x="130" y="280" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">fiscal year</text>
+
+  <path d="M244 210 H290" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M270 190 L300 210 L270 230" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="304" y="60" width="188" height="300" rx="16" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="304" y="60" width="188" height="44" rx="16" fill="#2ca01c"/>
+  <text x="398" y="88" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">QB Desktop Enterprise</text>
+  <circle cx="398" cy="220" r="42" fill="#64e1b0"/>
+  <path d="M378 220 L392 234 L420 202" stroke="#21212d" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="398" y="300" font-family="Arial, sans-serif" font-size="13" fill="#21212d" text-anchor="middle" font-weight="bold">Fully tied out</text>
+
+  <text x="60" y="420" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#21212d">QuickBooks Migration</text>
+  <text x="60" y="448" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#21212d">&amp; Cleanup</text>
+</svg>

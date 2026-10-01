@@ -1,0 +1,9 @@
+<svg width="581" height="411" viewBox="0 0 581 411" xmlns="http://www.w3.org/2000/svg">
+  <rect width="581" height="411" fill="#edeaf8"/>
+  <circle cx="200" cy="200" r="90" fill="#2CA01C"/>
+  <text x="200" y="212" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">QB</text>
+  <circle cx="380" cy="200" r="90" fill="#0F87C9"/>
+  <text x="380" y="212" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">Xero</text>
+  <text x="290" y="130" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#21212d" text-anchor="middle">VS</text>
+  <path d="M250 200 H330" stroke="#21212d" stroke-width="3" stroke-dasharray="6 6"/>
+</svg>

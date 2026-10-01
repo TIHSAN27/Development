@@ -1,0 +1,26 @@
+<svg width="581" height="411" viewBox="0 0 581 411" xmlns="http://www.w3.org/2000/svg">
+  <rect width="581" height="411" fill="#f6f4fd"/>
+  <rect x="130" y="60" width="320" height="290" rx="16" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="130" y="60" width="320" height="56" rx="16" fill="#6e4ef2"/>
+  <rect x="160" y="76" width="14" height="24" rx="3" fill="#ffffff"/>
+  <rect x="396" y="76" width="14" height="24" rx="3" fill="#ffffff"/>
+  <text x="290" y="97" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle" font-weight="bold">Month-End Close</text>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#33333e">
+    <rect x="158" y="140" width="20" height="20" rx="4" fill="#64e1b0"/>
+    <path d="M162 150 L167 155 L176 145" stroke="#21212d" stroke-width="2.5" fill="none"/>
+    <text x="188" y="155">Journal entries posted</text>
+
+    <rect x="158" y="176" width="20" height="20" rx="4" fill="#64e1b0"/>
+    <path d="M162 186 L167 191 L176 181" stroke="#21212d" stroke-width="2.5" fill="none"/>
+    <text x="188" y="191">Accounts reconciled</text>
+
+    <rect x="158" y="212" width="20" height="20" rx="4" fill="#64e1b0"/>
+    <path d="M162 222 L167 227 L176 217" stroke="#21212d" stroke-width="2.5" fill="none"/>
+    <text x="188" y="227">Financials reviewed</text>
+
+    <rect x="158" y="248" width="20" height="20" rx="4" fill="none" stroke="#8c71ff" stroke-width="2.5"/>
+    <text x="188" y="263">Reports delivered</text>
+  </g>
+  <rect x="158" y="292" width="264" height="14" rx="7" fill="#edeaf8"/>
+  <rect x="158" y="292" width="198" height="14" rx="7" fill="#64e1b0"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="581" height="411" viewBox="0 0 581 411" xmlns="http://www.w3.org/2000/svg">
+  <rect width="581" height="411" fill="#edeaf8"/>
+  <rect x="120" y="90" width="150" height="200" rx="10" fill="#e3ddfb"/>
+  <text x="195" y="130" font-family="Arial, sans-serif" font-size="46" fill="#9c9caa" text-anchor="middle">?</text>
+  <text x="195" y="250" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">12 months</text>
+  <text x="195" y="270" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">behind</text>
+
+  <path d="M290 190 H340" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M312 165 L346 190 L312 215" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="360" y="90" width="150" height="200" rx="10" fill="#ffffff" stroke="#c9c2f5" stroke-width="2"/>
+  <circle cx="435" cy="170" r="38" fill="#64e1b0"/>
+  <path d="M418 170 L430 182 L455 154" stroke="#21212d" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="435" y="250" font-family="Arial, sans-serif" font-size="13" fill="#21212d" text-anchor="middle" font-weight="bold">Caught up &amp;</text>
+  <text x="435" y="270" font-family="Arial, sans-serif" font-size="13" fill="#21212d" text-anchor="middle" font-weight="bold">reconciled</text>
+</svg>

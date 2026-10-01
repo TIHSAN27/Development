@@ -31,7 +31,7 @@ export default function Work() {
 										<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
-													<img className="card__image" src="/assets/imgs/work/img-1.png" alt="" />
+													<img className="card__image" src="/assets/imgs/work/img-1.svg" alt="" />
 													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">
@@ -75,7 +75,7 @@ export default function Work() {
 										<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
-													<img className="card__image" src="/assets/imgs/work/img-2.png" alt="" />
+													<img className="card__image" src="/assets/imgs/work/img-2.svg" alt="" />
 													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">
@@ -119,7 +119,7 @@ export default function Work() {
 										<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
-													<img className="card__image" src="/assets/imgs/work/img-3.png" alt="" />
+													<img className="card__image" src="/assets/imgs/work/img-3.svg" alt="" />
 													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">
@@ -163,7 +163,7 @@ export default function Work() {
 										<div className="card-custom" data-index={0}>
 											<div className="card__inner bg-6 p-lg-6 p-md-4 p-3">
 												<div className="card__image-container zoom-img position-relative">
-													<img className="card__image" src="/assets/imgs/work/img-4.png" alt="" />
+													<img className="card__image" src="/assets/imgs/work/img-4.svg" alt="" />
 													<Link href="/work-single" className="card-image-overlay position-absolute start-0 end-0 w-100 h-100" />
 												</div>
 												<div className="card__content px-md-4 px-3">

@@ -1,0 +1,51 @@
+<svg width="1156" height="866" viewBox="0 0 1156 866" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1156" height="866" fill="#f6f4fd"/>
+  <rect x="60" y="60" width="1036" height="746" rx="24" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="60" y="60" width="1036" height="70" rx="24" fill="#21212d"/>
+  <circle cx="100" cy="95" r="9" fill="#ec4040"/>
+  <circle cx="128" cy="95" r="9" fill="#ffd45d"/>
+  <circle cx="156" cy="95" r="9" fill="#64e1b0"/>
+
+  <!-- 3 client tabs -->
+  <g font-family="Arial, sans-serif">
+    <rect x="110" y="160" width="300" height="72" rx="14" fill="#6e4ef2"/>
+    <text x="260" y="204" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">Client A</text>
+
+    <rect x="428" y="160" width="300" height="72" rx="14" fill="#edeaf8"/>
+    <text x="578" y="204" font-size="20" fill="#6e4ef2" text-anchor="middle" font-weight="bold">Client B</text>
+
+    <rect x="746" y="160" width="300" height="72" rx="14" fill="#edeaf8"/>
+    <text x="896" y="204" font-size="20" fill="#6e4ef2" text-anchor="middle" font-weight="bold">Client C</text>
+  </g>
+
+  <!-- ledger for active client -->
+  <g font-family="Arial, sans-serif">
+    <text x="110" y="290" font-size="24" fill="#21212d" font-weight="bold">Monthly Close — Client A</text>
+
+    <rect x="110" y="320" width="936" height="50" rx="10" fill="#f6f4fd"/>
+    <text x="130" y="352" font-size="16" fill="#33333e">Journal Entries Posted</text>
+    <text x="990" y="352" font-size="16" fill="#1fae7a" font-weight="bold" text-anchor="end">Complete</text>
+
+    <rect x="110" y="378" width="936" height="50" rx="10" fill="#f6f4fd"/>
+    <text x="130" y="410" font-size="16" fill="#33333e">Bank &amp; CC Reconciliation</text>
+    <text x="990" y="410" font-size="16" fill="#1fae7a" font-weight="bold" text-anchor="end">Complete</text>
+
+    <rect x="110" y="436" width="936" height="50" rx="10" fill="#f6f4fd"/>
+    <text x="130" y="468" font-size="16" fill="#33333e">P&amp;L / Balance Sheet / Cash Flow</text>
+    <text x="990" y="468" font-size="16" fill="#c98f0a" font-weight="bold" text-anchor="end">In Progress</text>
+  </g>
+
+  <!-- 3 upward bars -->
+  <g>
+    <rect x="150" y="640" width="70" height="100" rx="8" fill="#8c71ff"/>
+    <rect x="250" y="600" width="70" height="140" rx="8" fill="#6e4ef2"/>
+    <rect x="350" y="560" width="70" height="180" rx="8" fill="#64e1b0"/>
+    <text x="185" y="770" font-family="Arial, sans-serif" font-size="15" fill="#565662" text-anchor="middle">Client A</text>
+    <text x="285" y="770" font-family="Arial, sans-serif" font-size="15" fill="#565662" text-anchor="middle">Client B</text>
+    <text x="385" y="770" font-family="Arial, sans-serif" font-size="15" fill="#565662" text-anchor="middle">Client C</text>
+  </g>
+
+  <text x="700" y="600" font-family="Arial, sans-serif" font-size="18" fill="#565662">3 clients,</text>
+  <text x="700" y="628" font-family="Arial, sans-serif" font-size="18" fill="#565662">one reliable</text>
+  <text x="700" y="656" font-family="Arial, sans-serif" font-size="18" fill="#565662">close schedule.</text>
+</svg>
