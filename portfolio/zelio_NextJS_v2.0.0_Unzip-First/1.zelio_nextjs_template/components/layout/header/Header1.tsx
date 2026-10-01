@@ -14,7 +14,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isOffC
 					</Link>
 					<div className="container py-3 px-0">
 						<Link className="navbar-brand d-flex main-logo align-items-center ms-lg-0 ms-md-5 ms-3" href="/">
-							<img src="/assets/imgs/template/favicon.svg" alt="Taimoor Ihsan" />
+							<img src="/assets/imgs/profile/taimoor.jpg" alt="Taimoor Ihsan" style={{ width: 44, height: 44, borderRadius: '50%', objectFit: 'cover' }} />
 							<span className="fs-4 ms-2">Taimoor Ihsan</span>
 						</Link>
 						<div className="d-none d-lg-flex">
