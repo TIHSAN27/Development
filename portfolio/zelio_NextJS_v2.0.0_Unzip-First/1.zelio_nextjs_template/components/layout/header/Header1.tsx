@@ -30,9 +30,6 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isOffC
 								<Link href="mailto:taimoorahsan27@gmail.com">
 									<i className="ri-mail-fill fs-18" />
 								</Link>
-								<Link href="tel:+15713589822">
-									<i className="ri-phone-fill fs-18" />
-								</Link>
 							</div>
 							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
 								<span className="burger-icon-top" />

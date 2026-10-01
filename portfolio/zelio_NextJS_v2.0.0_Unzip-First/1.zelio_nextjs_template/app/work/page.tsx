@@ -239,7 +239,7 @@ export default function Work() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">$<span className="odometer ds-1 text-dark fw-semibold">250</span>K+</span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">$<span className="odometer ds-1 text-dark fw-semibold">5</span>M+</span>
 												<div className="text-start ms-2">
 													<p className="fs-5 mb-0 text-300">Receivables</p>
 													<p className="fs-5 mb-0 fw-bold">Tracked</p>
@@ -272,17 +272,7 @@ export default function Work() {
 								reconciliations, reporting, or getting your books audit-ready, feel free to reach out!
 							</span>
 							<div className="row mt-8">
-								<div className="col-lg-4 d-flex flex-column">
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
-										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-											<i className="ri-phone-fill text-primary-1 fs-26" />
-										</div>
-										<div className="ps-3">
-											<span className="text-400 fs-5">Phone Number</span>
-											<h6 className="mb-0">+1 571 358 9822</h6>
-										</div>
-										<Link href="tel:+15713589822" className="position-absolute top-0 start-0 w-100 h-100" />
-									</div>
+								<div className="col-lg-5 mx-auto d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-mail-fill text-primary-1 fs-26" />
@@ -311,44 +301,6 @@ export default function Work() {
 											<span className="text-400 fs-5">Location</span>
 											<h6 className="mb-0">Remote — Serving Clients Across the US &amp; Canada</h6>
 										</div>
-									</div>
-								</div>
-								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
-									<div className="position-relative">
-										<div className="position-relative z-2">
-											<h3>Leave a messge</h3>
-											<form action="#">
-												<div className="row mt-3">
-													<div className="col-md-6 ">
-														<label className="mb-1 mt-3 text-dark" htmlFor="name">Your name <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="name" name="name" placeholder="John Doe" aria-label="username" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="email">Email address <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="email" name="email" placeholder="contact.john@gmail.com" aria-label="email" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="phone">Your phone <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="phone" name="phone" placeholder="+01 234 567 89" aria-label="phone" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="subject">Subject <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="subject" name="subject" placeholder="I want to contact for...." aria-label="subject" />
-													</div>
-													<div className="col-12">
-														<label className="mb-1 mt-3 text-dark" htmlFor="message">Message <span className="text-primary-1">*</span></label>
-														<textarea className="form-control border rounded-3 pb-10" id="message" name="message" placeholder="Your message here...." aria-label="With textarea" />
-													</div>
-													<div className="col-12">
-														<button type="submit" className="btn btn-gradient mt-3">
-															Send Message
-															<i className="ri-arrow-right-up-line" />
-														</button>
-													</div>
-												</div>
-											</form>
-										</div>
-										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 									</div>
 								</div>
 							</div>

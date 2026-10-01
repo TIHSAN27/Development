@@ -13,38 +13,28 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					</div>
 					<div className="offCanvas__side-info mb-30">
 						<div className="contact-list mb-30">
-							<p className="fs-6 fw-medium text-200 mb-5">I'm always excited to take on new projects and collaborate with innovative minds.</p>
-							<div className="mb-3">
-								<span className="text-400 fs-5">Phone Number</span>
-								<p className="mb-0">+1-234-567-8901</p>
-							</div>
+							<p className="fs-6 fw-medium text-200 mb-5">I'm always happy to take on new bookkeeping engagements. If you need help with reconciliations, reporting, or getting your books audit-ready, feel free to reach out!</p>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Email</span>
-								<p className="mb-0">contact@william.design</p>
+								<p className="mb-0">taimoorahsan27@gmail.com</p>
 							</div>
 							<div className="mb-3">
-								<span className="text-400 fs-5">Skype</span>
-								<p className="mb-0">WilliamDesignUX</p>
+								<span className="text-400 fs-5">LinkedIn</span>
+								<p className="mb-0">linkedin.com/in/tihsan13</p>
 							</div>
 							<div className="mb-3">
-								<span className="text-400 fs-5">Address</span>
-								<p className="mb-0">0811 Erdman Prairie Road, Joaville, California 90210</p>
+								<span className="text-400 fs-5">Location</span>
+								<p className="mb-0">Remote — Serving Clients Across the US &amp; Canada</p>
 							</div>
 						</div>
 						<div className="contact-list">
 							<p className="text-400 fs-5 mb-2">Social</p>
 							<div className="d-md-flex d-none gap-3">
-								<Link href="/http://facebook.com">
-									<i className="ri-facebook-circle-fill fs-18" />
-								</Link>
-								<Link href="/http://twitter.com">
-									<i className="ri-twitter-x-fill fs-18" />
-								</Link>
-								<Link href="/http://linkedin.com">
+								<Link href="https://www.linkedin.com/in/tihsan13" target="_blank">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
-								<Link href="/http://github.com">
-									<i className="ri-github-fill fs-18" />
+								<Link href="mailto:taimoorahsan27@gmail.com">
+									<i className="ri-mail-fill fs-18" />
 								</Link>
 							</div>
 						</div>
