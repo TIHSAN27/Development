@@ -53,7 +53,7 @@ export default function PortfolioFilter() {
 					<div className="filter-item col-lg-6 col-12 brand ui app">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
 							<Link href="/work-single">
-								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-1.png" alt="infinia" />
+								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-1.svg" alt="infinia" />
 							</Link>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">
@@ -69,7 +69,7 @@ export default function PortfolioFilter() {
 					<div className="filter-item col-lg-6 col-12 webdesign brand dataanalysis brand">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
 							<Link href="/work-single">
-								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-2.png" alt="infinia" />
+								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-2.svg" alt="infinia" />
 							</Link>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">
@@ -85,7 +85,7 @@ export default function PortfolioFilter() {
 					<div className="filter-item col-lg-6 col-12 ui app">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
 							<Link href="/work-single">
-								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-3.png" alt="infinia" />
+								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-3.svg" alt="infinia" />
 							</Link>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">
@@ -101,7 +101,7 @@ export default function PortfolioFilter() {
 					<div className="filter-item col-lg-6 col-12 app app dataanalysis brand">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
 							<Link href="/work-single">
-								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-4.png" alt="infinia" />
+								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-4.svg" alt="infinia" />
 							</Link>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">

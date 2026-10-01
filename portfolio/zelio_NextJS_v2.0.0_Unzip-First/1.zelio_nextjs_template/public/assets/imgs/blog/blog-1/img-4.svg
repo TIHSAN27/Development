@@ -1,0 +1,17 @@
+<svg width="581" height="411" viewBox="0 0 581 411" xmlns="http://www.w3.org/2000/svg">
+  <rect width="581" height="411" fill="#f6f4fd"/>
+  <rect x="80" y="90" width="180" height="230" rx="14" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <text x="170" y="120" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Bank</text>
+  <line x1="105" y1="150" x2="235" y2="150" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="105" y1="180" x2="235" y2="180" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="105" y1="210" x2="200" y2="210" stroke="#c9c2f5" stroke-width="5"/>
+
+  <rect x="321" y="90" width="180" height="230" rx="14" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <text x="411" y="120" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Ledger</text>
+  <line x1="346" y1="150" x2="476" y2="150" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="346" y1="180" x2="476" y2="180" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="346" y1="210" x2="441" y2="210" stroke="#c9c2f5" stroke-width="5"/>
+
+  <circle cx="290" cy="200" r="44" fill="#6e4ef2"/>
+  <path d="M272 200 L284 212 L308 186" stroke="#ffffff" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

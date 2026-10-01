@@ -21,34 +21,34 @@ export default function Brands1() {
 					<Marquee className="carouselTicker carouselTicker-right mt-5 position-relative z-1" direction="right">
 						<ul className="carouselTicker__list">
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-1.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-1.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-2.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-2.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-3.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-3.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-4.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-4.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-5.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-5.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-6.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-6.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-7.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-7.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-8.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-8.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-9.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-9.svg" alt="infinia" />
 							</li>
 							<li className="carouselTicker__item">
-								<img src="/assets/imgs/brands/brands-1/logo-10.png" alt="infinia" />
+								<img src="/assets/imgs/brands/brands-1/logo-10.svg" alt="infinia" />
 							</li>
 						</ul>
 					</Marquee>

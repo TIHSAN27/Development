@@ -1,0 +1,22 @@
+<svg width="792" height="547" viewBox="0 0 792 547" xmlns="http://www.w3.org/2000/svg">
+  <rect width="792" height="547" rx="20" fill="#21212d"/>
+
+  <rect x="120" y="90" width="220" height="150" rx="14" fill="#2a2a35"/>
+  <text x="140" y="130" font-family="Arial, sans-serif" font-size="16" fill="#b7aef0">Profit &amp; Loss</text>
+  <text x="140" y="170" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#64e1b0">+$48,200</text>
+  <path d="M140 210 L180 195 L220 205 L260 180 L300 190" stroke="#64e1b0" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <rect x="360" y="90" width="220" height="150" rx="14" fill="#2a2a35"/>
+  <text x="380" y="130" font-family="Arial, sans-serif" font-size="16" fill="#b7aef0">Balance Sheet</text>
+  <rect x="380" y="150" width="60" height="60" fill="#6e4ef2"/>
+  <rect x="450" y="170" width="60" height="40" fill="#8c71ff"/>
+  <rect x="520" y="140" width="40" height="70" fill="#64e1b0"/>
+
+  <rect x="120" y="270" width="460" height="150" rx="14" fill="#2a2a35"/>
+  <text x="140" y="310" font-family="Arial, sans-serif" font-size="16" fill="#b7aef0">Cash Flow Statement</text>
+  <path d="M140 380 L200 350 L260 390 L320 330 L380 360 L440 320 L500 350 L560 310" stroke="#ffd45d" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="560" cy="310" r="7" fill="#ffd45d"/>
+
+  <circle cx="670" cy="340" r="54" fill="#64e1b0"/>
+  <path d="M642 340 L662 360 L698 316" stroke="#21212d" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

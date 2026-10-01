@@ -1,0 +1,52 @@
+<svg width="1156" height="866" viewBox="0 0 1156 866" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1156" height="866" fill="#f6f4fd"/>
+  <rect x="60" y="60" width="1036" height="746" rx="24" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="60" y="60" width="1036" height="70" rx="24" fill="#21212d"/>
+  <rect x="60" y="106" width="1036" height="24" fill="#21212d"/>
+  <circle cx="100" cy="95" r="9" fill="#ec4040"/>
+  <circle cx="128" cy="95" r="9" fill="#ffd45d"/>
+  <circle cx="156" cy="95" r="9" fill="#64e1b0"/>
+  <rect x="470" y="86" width="280" height="18" rx="9" fill="#33333e"/>
+
+  <!-- sidebar -->
+  <rect x="60" y="130" width="220" height="676" fill="#f6f4fd"/>
+  <rect x="90" y="170" width="160" height="14" rx="7" fill="#6e4ef2"/>
+  <rect x="90" y="210" width="130" height="10" rx="5" fill="#b7aef0"/>
+  <rect x="90" y="240" width="150" height="10" rx="5" fill="#c9c2f5"/>
+  <rect x="90" y="270" width="110" height="10" rx="5" fill="#c9c2f5"/>
+  <rect x="90" y="300" width="140" height="10" rx="5" fill="#c9c2f5"/>
+
+  <!-- main content: payables/payroll register -->
+  <text x="320" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#21212d">Payables &amp; Payroll Register</text>
+
+  <rect x="320" y="230" width="756" height="60" rx="12" fill="#edeaf8"/>
+  <text x="344" y="266" font-family="Arial, sans-serif" font-size="20" fill="#6e4ef2" font-weight="bold">60+ Payees</text>
+  <text x="700" y="266" font-family="Arial, sans-serif" font-size="20" fill="#6e4ef2" font-weight="bold">10 Periods</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="320" y="310" width="756" height="52" rx="10" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <circle cx="352" cy="336" r="10" fill="#64e1b0"/>
+    <text x="380" y="342" font-size="17" fill="#33333e">Vendor Payment — Entity A</text>
+    <text x="960" y="342" font-size="17" fill="#21212d" font-weight="bold" text-anchor="end">$4,250</text>
+
+    <rect x="320" y="372" width="756" height="52" rx="10" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <circle cx="352" cy="398" r="10" fill="#64e1b0"/>
+    <text x="380" y="404" font-size="17" fill="#33333e">Biweekly Payroll — Entity B</text>
+    <text x="960" y="404" font-size="17" fill="#21212d" font-weight="bold" text-anchor="end">$18,900</text>
+
+    <rect x="320" y="434" width="756" height="52" rx="10" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <circle cx="352" cy="460" r="10" fill="#ffd45d"/>
+    <text x="380" y="466" font-size="17" fill="#33333e">Vendor Payment — Entity C</text>
+    <text x="960" y="466" font-size="17" fill="#21212d" font-weight="bold" text-anchor="end">$2,110</text>
+
+    <rect x="320" y="496" width="756" height="52" rx="10" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <circle cx="352" cy="522" r="10" fill="#64e1b0"/>
+    <text x="380" y="528" font-size="17" fill="#33333e">Biweekly Payroll — Entity D</text>
+    <text x="960" y="528" font-size="17" fill="#21212d" font-weight="bold" text-anchor="end">$21,340</text>
+  </g>
+
+  <!-- reconciled seal -->
+  <circle cx="960" cy="660" r="58" fill="#64e1b0"/>
+  <path d="M928 660 L950 682 L994 636" stroke="#21212d" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="960" y="750" font-family="Arial, sans-serif" font-size="18" fill="#21212d" text-anchor="middle" font-weight="bold">Reconciled</text>
+</svg>

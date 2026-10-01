@@ -1,0 +1,33 @@
+<svg width="522" height="547" viewBox="0 0 522 547" xmlns="http://www.w3.org/2000/svg">
+  <rect width="522" height="547" fill="#f6f4fd"/>
+  <rect x="30" y="30" width="462" height="487" rx="20" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="30" y="30" width="462" height="56" rx="20" fill="#21212d"/>
+  <rect x="30" y="66" width="462" height="20" fill="#21212d"/>
+  <circle cx="60" cy="58" r="7" fill="#ec4040"/>
+  <circle cx="82" cy="58" r="7" fill="#ffd45d"/>
+  <circle cx="104" cy="58" r="7" fill="#64e1b0"/>
+
+  <text x="60" y="150" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#21212d">Payables &amp; Payroll</text>
+  <text x="60" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#21212d">Register</text>
+
+  <rect x="60" y="210" width="400" height="44" rx="10" fill="#edeaf8"/>
+  <text x="80" y="238" font-family="Arial, sans-serif" font-size="16" fill="#6e4ef2" font-weight="bold">60+ payees · 10 periods</text>
+
+  <rect x="60" y="270" width="400" height="42" rx="8" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+  <circle cx="84" cy="291" r="8" fill="#64e1b0"/>
+  <text x="104" y="297" font-family="Arial, sans-serif" font-size="14" fill="#33333e">Entity A payroll</text>
+  <text x="440" y="297" font-family="Arial, sans-serif" font-size="14" fill="#21212d" font-weight="bold" text-anchor="end">$18,900</text>
+
+  <rect x="60" y="320" width="400" height="42" rx="8" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+  <circle cx="84" cy="341" r="8" fill="#64e1b0"/>
+  <text x="104" y="347" font-family="Arial, sans-serif" font-size="14" fill="#33333e">Entity B vendor bill</text>
+  <text x="440" y="347" font-family="Arial, sans-serif" font-size="14" fill="#21212d" font-weight="bold" text-anchor="end">$4,250</text>
+
+  <rect x="60" y="370" width="400" height="42" rx="8" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+  <circle cx="84" cy="391" r="8" fill="#ffd45d"/>
+  <text x="104" y="397" font-family="Arial, sans-serif" font-size="14" fill="#33333e">Entity C vendor bill</text>
+  <text x="440" y="397" font-family="Arial, sans-serif" font-size="14" fill="#21212d" font-weight="bold" text-anchor="end">$2,110</text>
+
+  <circle cx="461" cy="470" r="34" fill="#64e1b0"/>
+  <path d="M446 470 L456 480 L478 456" stroke="#21212d" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

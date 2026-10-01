@@ -1,0 +1,50 @@
+<svg width="1156" height="866" viewBox="0 0 1156 866" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1156" height="866" fill="#f6f4fd"/>
+  <rect x="60" y="60" width="1036" height="746" rx="24" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="60" y="60" width="1036" height="70" rx="24" fill="#21212d"/>
+  <rect x="60" y="106" width="1036" height="24" fill="#21212d"/>
+  <circle cx="100" cy="95" r="9" fill="#ec4040"/>
+  <circle cx="128" cy="95" r="9" fill="#ffd45d"/>
+  <circle cx="156" cy="95" r="9" fill="#64e1b0"/>
+  <rect x="440" y="86" width="300" height="18" rx="9" fill="#33333e"/>
+
+  <text x="110" y="200" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#21212d">AR &amp; Collections Tracker</text>
+
+  <!-- KPI cards -->
+  <rect x="110" y="230" width="230" height="110" rx="14" fill="#edeaf8"/>
+  <text x="130" y="270" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#6e4ef2">$250K+</text>
+  <text x="130" y="300" font-family="Arial, sans-serif" font-size="16" fill="#565662">Total Receivables</text>
+
+  <rect x="360" y="230" width="230" height="110" rx="14" fill="#eafaf3"/>
+  <text x="380" y="270" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#1fae7a">45+</text>
+  <text x="380" y="300" font-family="Arial, sans-serif" font-size="16" fill="#565662">Accounts Tracked</text>
+
+  <rect x="610" y="230" width="266" height="110" rx="14" fill="#fff7e6"/>
+  <text x="630" y="270" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#c98f0a">Aging</text>
+  <text x="630" y="300" font-family="Arial, sans-serif" font-size="16" fill="#565662">0–30 · 31–60 · 60+</text>
+
+  <!-- aging bar chart -->
+  <g>
+    <rect x="110" y="600" width="60" height="130" rx="6" fill="#64e1b0"/>
+    <rect x="200" y="540" width="60" height="190" rx="6" fill="#6e4ef2"/>
+    <rect x="290" y="480" width="60" height="250" rx="6" fill="#8c71ff"/>
+    <rect x="380" y="560" width="60" height="170" rx="6" fill="#ffd45d"/>
+    <rect x="470" y="620" width="60" height="110" rx="6" fill="#f45d48"/>
+    <line x1="90" y1="740" x2="900" y2="740" stroke="#c9c2f5" stroke-width="2"/>
+    <text x="140" y="760" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Wk 1</text>
+    <text x="230" y="760" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Wk 2</text>
+    <text x="320" y="760" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Wk 3</text>
+    <text x="410" y="760" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Wk 4</text>
+    <text x="500" y="760" font-family="Arial, sans-serif" font-size="14" fill="#565662" text-anchor="middle">Wk 5</text>
+  </g>
+
+  <!-- side table -->
+  <g font-family="Arial, sans-serif">
+    <rect x="620" y="380" width="410" height="42" rx="8" fill="#edeaf8"/>
+    <text x="640" y="406" font-size="15" fill="#33333e">Case #114 — Status: Current</text>
+    <rect x="620" y="428" width="410" height="42" rx="8" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <text x="640" y="454" font-size="15" fill="#33333e">Case #108 — Status: 30 Days</text>
+    <rect x="620" y="476" width="410" height="42" rx="8" fill="#ffffff" stroke="#eee6ff" stroke-width="2"/>
+    <text x="640" y="502" font-size="15" fill="#33333e">Case #096 — Status: 60+ Days</text>
+  </g>
+</svg>

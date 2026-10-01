@@ -1,0 +1,11 @@
+<svg width="581" height="411" viewBox="0 0 581 411" xmlns="http://www.w3.org/2000/svg">
+  <rect width="581" height="411" fill="#edeaf8"/>
+  <path d="M180 70 H340 L380 110 V340 H180 Z" fill="#ffffff" stroke="#d9cfff" stroke-width="2"/>
+  <path d="M340 70 V110 H380 Z" fill="#e3ddfb"/>
+  <text x="210" y="150" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#21212d">INVOICE</text>
+  <line x1="210" y1="180" x2="350" y2="180" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="210" y1="210" x2="350" y2="210" stroke="#c9c2f5" stroke-width="5"/>
+  <text x="210" y="260" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#6e4ef2">$4,250</text>
+  <rect x="200" y="290" width="160" height="30" rx="8" fill="#fce8e6"/>
+  <text x="280" y="310" font-family="Arial, sans-serif" font-size="14" fill="#d1453a" text-anchor="middle" font-weight="bold">60 days past due</text>
+</svg>
