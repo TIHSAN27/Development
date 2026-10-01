@@ -125,20 +125,20 @@ export default function Work() {
 												<div className="card__content px-md-4 px-3">
 													<div className="card__title d-md-flex align-items-center mb-0 mb-lg-2">
 														<Link href="/work-single" className="card_title_link">
-															<p className="text-primary-1 mb-0 mb-md-2">MIGRATION</p>
-															<h3 className="fw-semibold">QuickBooks Desktop Migration &amp; Cleanup</h3>
+															<p className="text-primary-1 mb-0 mb-md-2">PRODUCT BUILD</p>
+															<h3 className="fw-semibold">Crebits — Accounting &amp; Inventory SaaS</h3>
 														</Link>
 														<Link href="/work-single" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
 															<i className="ri-arrow-right-up-line" />
 														</Link>
 													</div>
-													<p className="text-300 mb-lg-auto mb-md-4 mb-3">Migrated multi-entity books onto QuickBooks Desktop Enterprise, catching up a full fiscal year of transactions following a prior firm handoff, with a full period-by-period tie-out.</p>
+													<p className="text-300 mb-lg-auto mb-md-4 mb-3">Designed and built a double-entry accounting and inventory management SaaS from the ground up — invoicing, ledgers, stock tracking, and financial reports in one platform.</p>
 													<div className="d-md-flex content">
 														<p className="mb-0 fs-7 text-dark text-uppercase w-40">
 															Client
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															Real Estate Holding &amp; Loan Servicing Group
+															Personal Product
 														</p>
 													</div>
 													<div className="d-md-flex content">
@@ -146,7 +146,7 @@ export default function Work() {
 															Engagement
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															Aug 2025 - Present
+															2025 - Present
 														</p>
 													</div>
 													<div className="d-md-flex content">
@@ -154,7 +154,7 @@ export default function Work() {
 															Tools
 														</p>
 														<p className="mb-0 card__description text-300 fs-6 mb-0">
-															QuickBooks Desktop Enterprise
+															React, Node.js, MongoDB, TypeScript
 														</p>
 													</div>
 												</div>

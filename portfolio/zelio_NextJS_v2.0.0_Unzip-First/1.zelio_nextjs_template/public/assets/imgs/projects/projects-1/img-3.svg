@@ -1,31 +1,65 @@
 <svg width="1156" height="866" viewBox="0 0 1156 866" xmlns="http://www.w3.org/2000/svg">
   <rect width="1156" height="866" fill="#f6f4fd"/>
+  <rect x="60" y="60" width="1036" height="746" rx="24" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="60" y="60" width="1036" height="70" rx="24" fill="#21212d"/>
+  <rect x="60" y="106" width="1036" height="24" fill="#21212d"/>
+  <circle cx="100" cy="95" r="9" fill="#ec4040"/>
+  <circle cx="128" cy="95" r="9" fill="#ffd45d"/>
+  <circle cx="156" cy="95" r="9" fill="#64e1b0"/>
+  <rect x="470" y="86" width="220" height="18" rx="9" fill="#33333e"/>
 
-  <!-- left: old desktop books -->
-  <rect x="70" y="150" width="420" height="560" rx="20" fill="#e9e6f5" stroke="#c9c2f5" stroke-width="2"/>
-  <rect x="70" y="150" width="420" height="60" rx="20" fill="#8a8a96"/>
-  <text x="280" y="188" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">Prior Firm Handoff</text>
-  <rect x="106" y="240" width="348" height="26" rx="6" fill="#c9c2f5"/>
-  <rect x="106" y="280" width="280" height="26" rx="6" fill="#c9c2f5"/>
-  <rect x="106" y="320" width="320" height="26" rx="6" fill="#c9c2f5"/>
-  <rect x="106" y="360" width="250" height="26" rx="6" fill="#c9c2f5"/>
-  <text x="280" y="470" font-family="Arial, sans-serif" font-size="60" fill="#9c9caa" text-anchor="middle">?</text>
-  <text x="280" y="520" font-family="Arial, sans-serif" font-size="18" fill="#565662" text-anchor="middle">Full Fiscal Year</text>
-  <text x="280" y="546" font-family="Arial, sans-serif" font-size="18" fill="#565662" text-anchor="middle">Un-Reconciled</text>
+  <!-- code panel -->
+  <rect x="100" y="166" width="440" height="600" rx="16" fill="#21212d"/>
+  <text x="128" y="210" font-family="monospace" font-size="18" fill="#8c71ff">&lt;/&gt; Crebits</text>
+  <rect x="128" y="236" width="150" height="10" rx="3" fill="#6e4ef2"/>
+  <rect x="128" y="260" width="360" height="8" rx="3" fill="#44445a"/>
+  <rect x="128" y="280" width="320" height="8" rx="3" fill="#44445a"/>
+  <rect x="150" y="300" width="300" height="8" rx="3" fill="#64e1b0"/>
+  <rect x="150" y="320" width="260" height="8" rx="3" fill="#44445a"/>
+  <rect x="128" y="340" width="340" height="8" rx="3" fill="#44445a"/>
+  <rect x="150" y="364" width="280" height="8" rx="3" fill="#ffd45d"/>
+  <rect x="150" y="384" width="240" height="8" rx="3" fill="#44445a"/>
+  <rect x="128" y="404" width="300" height="8" rx="3" fill="#44445a"/>
+  <rect x="128" y="440" width="380" height="1" fill="#33333e"/>
+  <text x="128" y="470" font-family="monospace" font-size="13" fill="#64e1b0">$ npm run build</text>
+  <text x="128" y="492" font-family="monospace" font-size="13" fill="#8a8a96">✓ compiled successfully</text>
 
-  <!-- arrow -->
-  <path d="M520 430 H630" stroke="#6e4ef2" stroke-width="10" fill="none" stroke-linecap="round"/>
-  <path d="M600 400 L640 430 L600 460" stroke="#6e4ef2" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- invoice card -->
+  <rect x="580" y="166" width="436" height="260" rx="16" fill="#edeaf8"/>
+  <text x="608" y="204" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#21212d">Invoice #CR-1042</text>
+  <line x1="608" y1="230" x2="988" y2="230" stroke="#c9c2f5" stroke-width="2"/>
+  <rect x="608" y="250" width="408" height="40" rx="8" fill="#ffffff"/>
+  <text x="624" y="275" font-family="Arial, sans-serif" font-size="14" fill="#33333e">Widget A × 12</text>
+  <text x="960" y="275" font-family="Arial, sans-serif" font-size="14" fill="#21212d" font-weight="bold" text-anchor="end">$360.00</text>
+  <rect x="608" y="298" width="408" height="40" rx="8" fill="#ffffff"/>
+  <text x="624" y="323" font-family="Arial, sans-serif" font-size="14" fill="#33333e">Widget B × 5</text>
+  <text x="960" y="323" font-family="Arial, sans-serif" font-size="14" fill="#21212d" font-weight="bold" text-anchor="end">$125.00</text>
+  <rect x="608" y="368" width="200" height="34" rx="8" fill="#64e1b0"/>
+  <text x="708" y="390" font-family="Arial, sans-serif" font-size="14" fill="#21212d" text-anchor="middle" font-weight="bold">Paid in Full</text>
 
-  <!-- right: clean QBDT -->
-  <rect x="666" y="150" width="420" height="560" rx="20" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
-  <rect x="666" y="150" width="420" height="60" rx="20" fill="#2ca01c"/>
-  <text x="876" y="188" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">QuickBooks Desktop Enterprise</text>
-  <rect x="702" y="240" width="348" height="26" rx="6" fill="#eafaf3"/>
-  <rect x="702" y="280" width="348" height="26" rx="6" fill="#eafaf3"/>
-  <rect x="702" y="320" width="348" height="26" rx="6" fill="#eafaf3"/>
-  <rect x="702" y="360" width="348" height="26" rx="6" fill="#eafaf3"/>
-  <circle cx="876" cy="470" r="60" fill="#64e1b0"/>
-  <path d="M846 470 L868 492 L910 448" stroke="#21212d" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="876" y="560" font-family="Arial, sans-serif" font-size="18" fill="#21212d" text-anchor="middle" font-weight="bold">Fully Tied Out</text>
+  <!-- inventory grid -->
+  <text x="608" y="462" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#21212d">Inventory</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="608" y="482" width="130" height="90" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="673" y="518" font-size="26" font-weight="bold" fill="#6e4ef2" text-anchor="middle">142</text>
+    <text x="673" y="540" font-size="12" fill="#565662" text-anchor="middle">Widget A</text>
+
+    <rect x="752" y="482" width="130" height="90" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="817" y="518" font-size="26" font-weight="bold" fill="#64e1b0" text-anchor="middle">58</text>
+    <text x="817" y="540" font-size="12" fill="#565662" text-anchor="middle">Widget B</text>
+
+    <rect x="896" y="482" width="120" height="90" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="956" y="518" font-size="26" font-weight="bold" fill="#ffd45d" text-anchor="middle">9</text>
+    <text x="956" y="540" font-size="12" fill="#565662" text-anchor="middle">Low Stock</text>
+  </g>
+
+  <!-- ledger strip -->
+  <rect x="608" y="596" width="408" height="170" rx="16" fill="#edeaf8"/>
+  <text x="630" y="630" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#21212d">Double-Entry Ledger</text>
+  <line x1="630" y1="650" x2="860" y2="650" stroke="#8c71ff" stroke-width="3"/>
+  <line x1="630" y1="676" x2="990" y2="676" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="630" y1="700" x2="960" y2="700" stroke="#c9c2f5" stroke-width="5"/>
+  <line x1="630" y1="724" x2="900" y2="724" stroke="#c9c2f5" stroke-width="5"/>
+  <circle cx="960" cy="710" r="34" fill="#6e4ef2"/>
+  <path d="M945 710 L955 720 L977 696" stroke="#ffffff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

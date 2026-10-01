@@ -82,15 +82,15 @@ export default function PortfolioFilter() {
 							</div>
 						</div>
 					</div>
-					<div className="filter-item col-lg-6 col-12 ui app">
+					<div className="filter-item col-lg-6 col-12 app">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
 							<Link href="/work-single">
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-3.svg" alt="infinia" />
 							</Link>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">
-									<h3 className="fw-semibold">QuickBooks Desktop Migration &amp; Cleanup</h3>
-									<p>Real Estate Holding &amp; Loan Servicing Group</p>
+									<h3 className="fw-semibold">Crebits — Accounting &amp; Inventory SaaS</h3>
+									<p>Personal Product · MERN Stack</p>
 								</Link>
 								<Link href="/work-single" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />

@@ -1,23 +1,39 @@
 <svg width="522" height="547" viewBox="0 0 522 547" xmlns="http://www.w3.org/2000/svg">
   <rect width="522" height="547" fill="#f6f4fd"/>
+  <rect x="30" y="30" width="462" height="487" rx="20" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+  <rect x="30" y="30" width="462" height="56" rx="20" fill="#21212d"/>
+  <circle cx="60" cy="58" r="7" fill="#ec4040"/>
+  <circle cx="82" cy="58" r="7" fill="#ffd45d"/>
+  <circle cx="104" cy="58" r="7" fill="#64e1b0"/>
+  <text x="280" y="63" font-family="monospace" font-size="13" fill="#8c71ff" text-anchor="middle">&lt;/&gt; crebits</text>
 
-  <rect x="30" y="60" width="200" height="300" rx="16" fill="#e9e6f5" stroke="#c9c2f5" stroke-width="2"/>
-  <rect x="30" y="60" width="200" height="44" rx="16" fill="#8a8a96"/>
-  <text x="130" y="88" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">Prior Firm</text>
-  <text x="130" y="220" font-family="Arial, sans-serif" font-size="46" fill="#9c9caa" text-anchor="middle">?</text>
-  <text x="130" y="260" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">Un-reconciled</text>
-  <text x="130" y="280" font-family="Arial, sans-serif" font-size="13" fill="#565662" text-anchor="middle">fiscal year</text>
+  <rect x="56" y="110" width="410" height="150" rx="14" fill="#21212d"/>
+  <rect x="80" y="134" width="120" height="8" rx="3" fill="#6e4ef2"/>
+  <rect x="80" y="156" width="280" height="7" rx="3" fill="#44445a"/>
+  <rect x="100" y="174" width="240" height="7" rx="3" fill="#64e1b0"/>
+  <rect x="80" y="192" width="260" height="7" rx="3" fill="#44445a"/>
+  <rect x="100" y="210" width="200" height="7" rx="3" fill="#ffd45d"/>
+  <text x="80" y="244" font-family="monospace" font-size="11" fill="#64e1b0">$ build passing ✓</text>
 
-  <path d="M244 210 H290" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round"/>
-  <path d="M270 190 L300 210 L270 230" stroke="#6e4ef2" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="300" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#21212d">Invoice #CR-1042</text>
+  <rect x="56" y="316" width="410" height="34" rx="8" fill="#edeaf8"/>
+  <text x="72" y="337" font-family="Arial, sans-serif" font-size="13" fill="#33333e">Widget A × 12</text>
+  <text x="440" y="337" font-family="Arial, sans-serif" font-size="13" fill="#21212d" font-weight="bold" text-anchor="end">$360.00</text>
 
-  <rect x="304" y="60" width="188" height="300" rx="16" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
-  <rect x="304" y="60" width="188" height="44" rx="16" fill="#2ca01c"/>
-  <text x="398" y="88" font-family="Arial, sans-serif" font-size="13" fill="#ffffff" text-anchor="middle">QB Desktop Enterprise</text>
-  <circle cx="398" cy="220" r="42" fill="#64e1b0"/>
-  <path d="M378 220 L392 234 L420 202" stroke="#21212d" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="398" y="300" font-family="Arial, sans-serif" font-size="13" fill="#21212d" text-anchor="middle" font-weight="bold">Fully tied out</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="56" y="366" width="130" height="80" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="121" y="400" font-size="22" font-weight="bold" fill="#6e4ef2" text-anchor="middle">142</text>
+    <text x="121" y="420" font-size="11" fill="#565662" text-anchor="middle">In Stock</text>
 
-  <text x="60" y="420" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#21212d">QuickBooks Migration</text>
-  <text x="60" y="448" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#21212d">&amp; Cleanup</text>
+    <rect x="196" y="366" width="130" height="80" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="261" y="400" font-size="22" font-weight="bold" fill="#64e1b0" text-anchor="middle">58</text>
+    <text x="261" y="420" font-size="11" fill="#565662" text-anchor="middle">Reserved</text>
+
+    <rect x="336" y="366" width="130" height="80" rx="10" fill="#ffffff" stroke="#e3ddfb" stroke-width="2"/>
+    <text x="401" y="400" font-size="22" font-weight="bold" fill="#ffd45d" text-anchor="middle">9</text>
+    <text x="401" y="420" font-size="11" fill="#565662" text-anchor="middle">Low Stock</text>
+  </g>
+
+  <circle cx="440" cy="470" r="28" fill="#6e4ef2"/>
+  <path d="M428 470 L436 478 L452 460" stroke="#ffffff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
