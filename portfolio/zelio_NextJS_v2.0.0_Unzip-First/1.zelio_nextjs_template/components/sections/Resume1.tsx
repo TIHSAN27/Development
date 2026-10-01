@@ -45,16 +45,6 @@ export default function Resume1() {
 										<div className="d-flex align-items-end">
 											<div>
 												<p className="fw-extra-bold text-linear-1 mb-2">UMT, Lahore</p>
-												<h5>Master's in Accounting &amp; Finance</h5>
-												<p className="text-300 mb-0">University of Management and Technology</p>
-											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold fs-6">MS</h3>
-										</div>
-									</div>
-									<div className="resume-card-item px-4 py-3 mt-5">
-										<div className="d-flex align-items-end">
-											<div>
-												<p className="fw-extra-bold text-linear-1 mb-2">UMT, Lahore</p>
 												<h5>B.S. Accounting &amp; Finance</h5>
 												<p className="text-300 mb-0">University of Management and Technology</p>
 											</div>
