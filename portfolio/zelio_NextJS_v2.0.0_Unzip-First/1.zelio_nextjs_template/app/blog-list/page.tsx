@@ -293,8 +293,8 @@ export default function BlogList() {
 								reconciliations, reporting, or getting your books audit-ready, feel free to reach out!
 							</span>
 							<div className="row mt-8">
-								<div className="col-lg-5 mx-auto d-flex flex-column">
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+								<div className="col-12 d-flex flex-wrap justify-content-center gap-5">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-mail-fill text-primary-1 fs-26" />
 										</div>
@@ -304,7 +304,7 @@ export default function BlogList() {
 										</div>
 										<Link href="mailto:taimoorahsan27@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-linkedin-fill text-primary-1 fs-26" />
 										</div>
@@ -314,7 +314,7 @@ export default function BlogList() {
 										</div>
 										<Link href="https://www.linkedin.com/in/tihsan13" target="_blank" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-briefcase-fill text-primary-1 fs-26" />
 										</div>
@@ -324,7 +324,7 @@ export default function BlogList() {
 										</div>
 										<Link href="https://www.upwork.com/freelancers/~01dedc388fc4119c52" target="_blank" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+									<div className="d-flex align-items-center position-relative">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-map-2-fill text-primary-1 fs-26" />
 										</div>
